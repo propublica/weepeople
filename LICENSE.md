@@ -1,6 +1,6 @@
-Attribution-NonCommercial-NoDerivs 
+Attribution-NonCommercial-NoDerivs 3.0 United States
 
-===================================
+===========================================================================
 
 c) Copyright 2018 ProPublica and Alberto Cairo
 
