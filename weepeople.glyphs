@@ -1,8 +1,9 @@
 {
-copyright = "2013 ProPublica";
+.appVersion = "85";
+copyright = "2018 ProPublica";
 date = "2014-06-25 16:38:44 +0000";
 designer = "Alberto Cairo and ProPublica";
-familyName = "WeePeople";
+familyName = WeePeople;
 featurePrefixes = (
 {
 automatic = 1;
@@ -14,7 +15,7 @@ fontMaster = (
 {
 ascender = 800;
 capHeight = 700;
-descender = "-200";
+descender = -200;
 id = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
 xHeight = 500;
 }
@@ -22,11 +23,10 @@ xHeight = 500;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2014-06-25 16:40:49 -0500";
+lastChange = "2014-06-25 16:40:49 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -603,11 +603,10 @@ unicode = 0041;
 },
 {
 glyphname = B;
-lastChange = "2014-06-25 16:42:21 -0500";
+lastChange = "2014-06-25 16:42:21 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1192,11 +1191,10 @@ unicode = 0042;
 },
 {
 glyphname = C;
-lastChange = "2014-06-25 16:47:01 -0500";
+lastChange = "2014-06-25 16:47:01 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1664,11 +1662,10 @@ unicode = 0043;
 },
 {
 glyphname = D;
-lastChange = "2014-06-26 15:34:29 -0500";
+lastChange = "2014-06-26 15:34:29 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2170,11 +2167,10 @@ unicode = 0044;
 },
 {
 glyphname = E;
-lastChange = "2014-06-26 15:35:08 -0500";
+lastChange = "2014-06-26 15:35:08 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2675,11 +2671,10 @@ unicode = 0045;
 },
 {
 glyphname = F;
-lastChange = "2014-06-26 15:35:37 -0500";
+lastChange = "2014-06-26 15:35:37 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3100,11 +3095,10 @@ unicode = 0046;
 },
 {
 glyphname = G;
-lastChange = "2014-06-26 15:35:57 -0500";
+lastChange = "2014-06-26 15:35:57 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3572,11 +3566,10 @@ unicode = 0047;
 },
 {
 glyphname = H;
-lastChange = "2014-06-26 15:36:24 -0500";
+lastChange = "2014-06-26 15:36:24 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4185,11 +4178,10 @@ unicode = 0048;
 },
 {
 glyphname = I;
-lastChange = "2014-06-26 15:37:18 -0500";
+lastChange = "2014-06-26 15:37:18 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4799,11 +4791,10 @@ unicode = 0049;
 },
 {
 glyphname = J;
-lastChange = "2014-06-26 15:38:57 -0500";
+lastChange = "2014-06-26 15:38:57 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5355,11 +5346,10 @@ unicode = 004A;
 },
 {
 glyphname = K;
-lastChange = "2014-06-26 15:40:14 -0500";
+lastChange = "2014-06-26 15:40:14 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5844,11 +5834,10 @@ unicode = 004B;
 },
 {
 glyphname = L;
-lastChange = "2014-06-26 15:41:25 -0500";
+lastChange = "2014-06-26 15:41:25 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6324,11 +6313,10 @@ unicode = 004C;
 },
 {
 glyphname = M;
-lastChange = "2014-06-26 15:43:09 -0500";
+lastChange = "2014-06-26 15:43:09 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6693,11 +6681,10 @@ unicode = 004D;
 },
 {
 glyphname = N;
-lastChange = "2014-06-26 15:43:25 -0500";
+lastChange = "2014-06-26 15:43:25 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7250,11 +7237,10 @@ unicode = 004E;
 },
 {
 glyphname = O;
-lastChange = "2014-06-26 15:43:48 -0500";
+lastChange = "2014-06-26 15:43:48 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7843,11 +7829,10 @@ unicode = 004F;
 },
 {
 glyphname = P;
-lastChange = "2014-06-26 15:44:04 -0500";
+lastChange = "2014-06-26 15:44:04 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8428,11 +8413,10 @@ unicode = 0050;
 },
 {
 glyphname = Q;
-lastChange = "2014-06-26 15:45:06 -0500";
+lastChange = "2014-06-26 15:45:06 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9015,11 +8999,10 @@ unicode = 0051;
 },
 {
 glyphname = R;
-lastChange = "2014-06-26 15:45:51 -0500";
+lastChange = "2014-06-26 15:45:51 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9338,11 +9321,10 @@ unicode = 0052;
 },
 {
 glyphname = S;
-lastChange = "2014-06-26 15:38:31 -0500";
+lastChange = "2014-06-26 15:38:31 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9838,11 +9820,10 @@ unicode = 0053;
 },
 {
 glyphname = T;
-lastChange = "2014-06-26 15:47:48 -0500";
+lastChange = "2014-06-26 15:47:48 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10234,11 +10215,10 @@ unicode = 0054;
 },
 {
 glyphname = U;
-lastChange = "2014-06-26 15:48:21 -0500";
+lastChange = "2014-06-26 15:48:21 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10587,11 +10567,10 @@ unicode = 0055;
 },
 {
 glyphname = V;
-lastChange = "2014-06-26 15:49:37 -0500";
+lastChange = "2014-06-26 15:49:37 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10959,11 +10938,10 @@ unicode = 0056;
 },
 {
 glyphname = W;
-lastChange = "2014-06-26 15:51:27 -0500";
+lastChange = "2014-06-26 15:51:27 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11477,11 +11455,10 @@ unicode = 0057;
 },
 {
 glyphname = X;
-lastChange = "2014-06-26 15:57:29 -0500";
+lastChange = "2014-06-26 15:57:29 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11976,11 +11953,10 @@ unicode = 0058;
 },
 {
 glyphname = Y;
-lastChange = "2014-06-26 16:01:10 -0500";
+lastChange = "2014-06-26 16:01:10 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12355,11 +12331,10 @@ unicode = 0059;
 },
 {
 glyphname = Z;
-lastChange = "2014-06-26 15:47:08 -0500";
+lastChange = "2014-06-26 15:47:08 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12948,11 +12923,10 @@ unicode = 005A;
 },
 {
 glyphname = a;
-lastChange = "2014-06-26 15:34:11 -0500";
+lastChange = "2014-06-26 15:34:11 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13478,11 +13452,10 @@ unicode = 0061;
 },
 {
 glyphname = b;
-lastChange = "2014-06-26 16:02:48 -0500";
+lastChange = "2014-06-26 16:02:48 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13809,11 +13782,10 @@ unicode = 0062;
 },
 {
 glyphname = c;
-lastChange = "2014-06-26 15:36:48 -0500";
+lastChange = "2014-06-26 15:36:48 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14343,11 +14315,10 @@ unicode = 0063;
 },
 {
 glyphname = d;
-lastChange = "2014-06-26 15:37:52 -0500";
+lastChange = "2014-06-26 15:37:52 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15099,11 +15070,10 @@ unicode = 0064;
 },
 {
 glyphname = e;
-lastChange = "2014-06-26 15:39:41 -0500";
+lastChange = "2014-06-26 15:39:41 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15608,11 +15578,10 @@ unicode = 0065;
 },
 {
 glyphname = f;
-lastChange = "2014-06-26 15:39:54 -0500";
+lastChange = "2014-06-26 15:39:54 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16171,11 +16140,10 @@ unicode = 0066;
 },
 {
 glyphname = g;
-lastChange = "2014-06-26 15:40:27 -0500";
+lastChange = "2014-06-26 15:40:27 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16505,11 +16473,10 @@ unicode = 0067;
 },
 {
 glyphname = h;
-lastChange = "2014-06-26 15:41:50 -0500";
+lastChange = "2014-06-26 15:41:50 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16980,11 +16947,10 @@ unicode = 0068;
 },
 {
 glyphname = i;
-lastChange = "2014-06-26 15:42:09 -0500";
+lastChange = "2014-06-26 15:42:09 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17389,11 +17355,10 @@ unicode = 0069;
 },
 {
 glyphname = j;
-lastChange = "2014-06-26 15:42:24 -0500";
+lastChange = "2014-06-26 15:42:24 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17669,11 +17634,10 @@ unicode = 006A;
 },
 {
 glyphname = k;
-lastChange = "2014-06-26 15:42:44 -0500";
+lastChange = "2014-06-26 15:42:44 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18121,11 +18085,10 @@ unicode = 006B;
 },
 {
 glyphname = l;
-lastChange = "2014-06-26 15:44:22 -0500";
+lastChange = "2014-06-26 15:44:22 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18484,11 +18447,10 @@ unicode = 006C;
 },
 {
 glyphname = m;
-lastChange = "2014-06-26 15:44:41 -0500";
+lastChange = "2014-06-26 15:44:41 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18898,11 +18860,10 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2014-06-26 15:46:15 -0500";
+lastChange = "2014-06-26 15:46:15 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19493,11 +19454,10 @@ unicode = 006E;
 },
 {
 glyphname = o;
-lastChange = "2014-06-26 16:03:45 -0500";
+lastChange = "2014-06-26 16:03:45 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19876,11 +19836,10 @@ unicode = 006F;
 },
 {
 glyphname = p;
-lastChange = "2014-06-26 15:51:01 -0500";
+lastChange = "2014-06-26 15:51:01 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20178,11 +20137,10 @@ unicode = 0070;
 },
 {
 glyphname = q;
-lastChange = "2014-06-26 15:59:27 -0500";
+lastChange = "2014-06-26 15:59:27 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20473,11 +20431,10 @@ unicode = 0071;
 },
 {
 glyphname = r;
-lastChange = "2014-06-26 16:02:15 -0500";
+lastChange = "2014-06-26 16:02:15 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20861,11 +20818,10 @@ unicode = 0072;
 },
 {
 glyphname = s;
-lastChange = "2014-06-26 16:03:11 -0500";
+lastChange = "2014-06-26 16:03:11 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21235,11 +21191,10 @@ unicode = 0073;
 },
 {
 glyphname = t;
-lastChange = "2014-06-26 16:05:10 -0500";
+lastChange = "2014-06-26 16:05:10 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21744,11 +21699,10 @@ unicode = 0074;
 },
 {
 glyphname = u;
-lastChange = "2014-06-26 16:05:12 -0500";
+lastChange = "2014-06-26 16:05:12 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -22253,11 +22207,10 @@ unicode = 0075;
 },
 {
 glyphname = v;
-lastChange = "2014-06-26 16:05:14 -0500";
+lastChange = "2014-06-26 16:05:14 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -22762,11 +22715,10 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2014-06-26 16:05:16 -0500";
+lastChange = "2014-06-26 16:05:16 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -23271,11 +23223,10 @@ unicode = 0077;
 },
 {
 glyphname = x;
-lastChange = "2014-06-26 16:05:18 -0500";
+lastChange = "2014-06-26 16:05:18 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -23780,11 +23731,10 @@ unicode = 0078;
 },
 {
 glyphname = y;
-lastChange = "2014-06-26 16:05:20 -0500";
+lastChange = "2014-06-26 16:05:20 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -24289,11 +24239,10 @@ unicode = 0079;
 },
 {
 glyphname = z;
-lastChange = "2014-06-26 16:05:22 -0500";
+lastChange = "2014-06-26 16:05:22 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -24798,11 +24747,10 @@ unicode = 007A;
 },
 {
 glyphname = space;
-lastChange = "2014-06-25 16:38:45 -0500";
+lastChange = "2014-06-25 16:38:45 +0000";
 layers = (
 {
 layerId = "4C7D885F-5AA0-4482-9948-8D5B5317D865";
-name = Regular;
 width = 600;
 }
 );
@@ -24815,6 +24763,7 @@ name = Regular;
 }
 );
 manufacturer = ProPublica;
+manufacturerURL = "https://www.propublica.org/";
 unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 0;
