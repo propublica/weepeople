@@ -10,3 +10,5 @@ Made using [Glyphs Mini](https://glyphsapp.com/glyphs-mini).
 
 Font in use:
 
+[https://projects.propublica.org/graphics/trump-job-promises](https://projects.propublica.org/graphics/trump-job-promises)
+
