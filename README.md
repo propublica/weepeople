@@ -1,6 +1,6 @@
 # Wee People
 
-![A crowd of wee people.](wee_people.png)
+![A crowd of wee people.](weepeople.png)
 
 A typeface of people sillhouettes, to make it easy to build web graphics featuring little people instead of dots.
 
