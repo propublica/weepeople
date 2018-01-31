@@ -17,4 +17,3 @@ Just add the contents of "weepeople.css" to your page, or link to that CSS file.
 ### Font in use:
 
 [What Happened to All the Jobs Trump Promised?](https://projects.propublica.org/graphics/trump-job-promises)
-
