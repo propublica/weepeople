@@ -11,7 +11,7 @@ Made using [Glyphs Mini](https://glyphsapp.com/glyphs-mini).
 
 ### How to use: 
 
-Just add the contents of "weepeople.css" to your page, or link to that CSS file. [Here's a demo:](http://propublica.github.io/weepeople/)
+Just add the contents of "weepeople.css" to your page, or link to that CSS file. [Here's a demo.](http://propublica.github.io/weepeople/)
 
 
 ### Font in use:
