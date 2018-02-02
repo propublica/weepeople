@@ -13,7 +13,11 @@ Made using [Glyphs Mini](https://glyphsapp.com/glyphs-mini).
 
 Just add the contents of "weepeople.css" to your page, or link to that CSS file. [Here's a demo.](http://propublica.github.io/weepeople/)
 
+### Article:
+
+[Our Font Is Made of People](https://source.opennews.org/articles/our-font-made-people/)
 
 ### Font in use:
 
 [What Happened to All the Jobs Trump Promised?](https://projects.propublica.org/graphics/trump-job-promises)
+
